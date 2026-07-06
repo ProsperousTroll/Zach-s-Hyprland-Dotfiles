@@ -7,7 +7,7 @@
     "spacing": 16, // Gaps between modules (4px)
     // Choose the order of the modules
     "modules-left": [
-        "hyprland/workspaces",
+        //"hyprland/workspaces",
         "ext/workspaces",
         //"mpris",
         "tray",
@@ -148,7 +148,7 @@
         // }
     },
     "clock": {
-        // "timezone": "America/New_York",
+        "timezone": "America/Los_Angeles", //wtf
         "format": "{:%I:%M %p}",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "format-alt": "{:%Y-%m-%d}"

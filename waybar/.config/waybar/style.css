@@ -54,6 +54,7 @@ tooltip label {
   border-radius: 16px;
   margin: 5px;
 }
+
 window#waybar.empty .modules-center {
     background-color: transparent;
 }
